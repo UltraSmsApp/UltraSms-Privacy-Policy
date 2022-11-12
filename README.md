@@ -1,3 +1,6 @@
+<h2>UltraSms privacy policy</h2>
+
+
 Privacy Policy
 TEAM X 1337 built the UltraSMS app as a Freemium app. This SERVICE is provided by TEAM X 1337 at no cost and is intended for use as is.
 
